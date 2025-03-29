@@ -2,4 +2,5 @@
 Resumo do meu aprendizado no laboratório da DIO.
 
 Documentação dos estudos:
-Introdução da nuvem do Microsoft Azure
+Introdução da nuvem do Microsoft Azure,
+Acordo de nível de serviços (SLA).
