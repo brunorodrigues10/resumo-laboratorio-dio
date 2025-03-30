@@ -5,4 +5,5 @@ Documentação dos estudos:</br>
 - Introdução da nuvem do Microsoft Azure,</br>
 - Acordo de nível de serviços (SLA),</br>
 - Tipos de serviços de nuvem,</br>
-- Compomentes de arquiterura azure.
+- Compomentes de arquiterura azure,</br>
+- Computação e Rede.
