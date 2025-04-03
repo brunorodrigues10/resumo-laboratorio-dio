@@ -6,4 +6,5 @@ Documentação dos estudos:</br>
 - Acordo de nível de serviços (SLA),</br>
 - Tipos de serviços de nuvem,</br>
 - Compomentes de arquiterura azure,</br>
-- Computação e Rede.
+- Computação e Rede,</br>
+- Análise de Sentimentos com Language Studio no Azure AI.
