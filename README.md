@@ -8,4 +8,5 @@ Documentação dos estudos:</br>
 - Compomentes de arquiterura azure,</br>
 - Computação e Rede,</br>
 - Análise de Sentimentos com Language Studio no Azure AI,</br>
-- Azure Cognitive Search.
+- Azure Cognitive Search,</br>
+- Explorando os Recursos de IA Generativa com Copilot e OpenAI.
